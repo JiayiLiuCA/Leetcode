@@ -1,3 +1,2 @@
 # Leetcode
-Solutions
-To be added
+Solutions to be added
